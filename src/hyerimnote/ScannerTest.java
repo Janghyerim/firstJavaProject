@@ -16,8 +16,11 @@ public class ScannerTest {
 		System.out.println();
 		double weight = sc.nextDouble();
 		System.out.println();
+		//sc.next();
 		boolean isSingle = sc.nextBoolean();
 		System.out.println();
+		
+		System.out.println("ok");
 		
 		sc.close();
 		
